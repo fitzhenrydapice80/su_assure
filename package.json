@@ -1,0 +1,27 @@
+{
+  "name": "su_assure",
+  "version": "1.0.0",
+  "description": "SumSure ensures accurate sums. With its reliability and precision, it provides dependable solutions for sum calculations, ensuring accuracy in your operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "su_assure": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fitzhenrydapice80/su_assure.git"
+  },
+  "homepage": "https://github.com/fitzhenrydapice80/su_assure/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "fitzhenrydapice80",
+  "license": "MIT"
+}
